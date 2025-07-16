@@ -1,5 +1,5 @@
 {
-  "name": "modernize-next-free",
+  "name": "bizzap_admin",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,13 +12,12 @@
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.14.0",
     "@emotion/server": "^11.11.0",
-    "@emotion/styled": "^11.14.0",
-    "@mui/icons-material": "^7.0.1",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.2.0",
     "@mui/lab": "^7.0.0-beta.10",
-    "@mui/material": "^7.0.1",
+    "@mui/material": "^7.2.0",
     "@mui/system": "^7.2.0",
-    "@tabler/icons-react": "^3.33.0",
-    "@types/node": "^20.2.3",
+    "@tabler/icons-react": "^3.34.0",
     "apexcharts": "4.7.0",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.12",
@@ -28,11 +27,18 @@
     "react-apexcharts": "1.7.0",
     "react-dom": "19.1.0",
     "react-mui-sidebar": "^1.6.3",
-    "react-syntax-highlighter": "^15.6.1",
+    "react-syntax-highlighter": "^5.8.0",
     "typescript": "5.7.3"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
     "@types/lodash": "4.14.196",
-    "@types/react-syntax-highlighter": "^15.5.13"
+    "@types/node": "^24.0.14",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
   }
 }
